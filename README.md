@@ -6,7 +6,7 @@
 
 :octocat: <strong>I'm a Fullstack Developer</strong>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  **I develop mobile applications with React Native and Firebase, and web applications with React. I'm currently working remote at Whopaloo**  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">  **I develop mobile applications with React Native and Firebase, and web applications with React. I'm currently working remote at Whopaloo** 
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=guiima">
 
@@ -15,10 +15,12 @@
 ## Knowledge
 
 **Main Languages**
+<br/>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ildaneta/)](https://github.com/guiima/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/ildaneta/)](https://github.com/guiima/)
 
 **Mobile / Front-end**
+<br/>
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/guiima/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ildaneta/)](https://github.com/guiima/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/guiima/)
@@ -26,6 +28,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ildaneta/)](https://github.com/guiima/)
 
 **Others Technologies**
+<br/>
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/ildaneta/)](https://github.com/guiima/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ildaneta/)](https://github.com/guiima/)
 <img src="https://www.nicepng.com/png/detail/23-234867_firebase-vertical-lockup-logo-firebase-logo-firebase.png" width="80" height="20">
