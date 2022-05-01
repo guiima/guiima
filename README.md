@@ -16,12 +16,14 @@
 
 **Main Languages**
 <br/>
+
+[![dart](https://img.shields.io/badge/code-Dart-blue)](https://github.com/guiima/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ildaneta/)](https://github.com/guiima/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/ildaneta/)](https://github.com/guiima/)
 
 **Mobile / Front-end**
 <br/>
-![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=9400D3)
+![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=9400D3)](https://github.com/guiima/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/guiima/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ildaneta/)](https://github.com/guiima/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/guiima/)
